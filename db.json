@@ -1,0 +1,26 @@
+{
+    "user": [
+        {
+            "name": "Peter",
+            "city": "Nairobi",
+            "bio": "I made this!",
+            "color": "blue",
+            "links": {
+                "github": "https://github.com/muthwi1234",
+                "linkedin": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+            }
+        }
+    ],
+    "project": [
+        {
+            "id": 1,
+            "name": "Transfer market",
+            "about": "An app for transfer of players",
+            "technologies": [
+                "Javascript",
+                "Html and css"
+            ]
+        }
+    ]
+}
+        
